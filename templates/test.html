@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FoodChow Assistant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f9f9f9;
+            padding: 20px;
+            max-width: 600px;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        #chat-box {
+            border: 1px solid #ccc;
+            padding: 15px;
+            background: #fff;
+            min-height: 200px;
+            margin-bottom: 15px;
+            overflow-y: auto;
+        }
+        .message {
+            margin-bottom: 10px;
+        }
+        .user {
+            color: #0066cc;
+        }
+        .bot {
+            color: #009933;
+        }
+        #user-input {
+            width: 100%;
+            padding: 10px;
+        }
+        #send-btn {
+            padding: 10px 20px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>FoodChow Assistant</h1>
+    <div id="chat-box"></div>
+
+    <input type="text" id="user-input" placeholder="Type your message here..." />
+    <button id="send-btn">Send</button>
+
+    <script>
+        const chatBox = document.getElementById("chat-box");
+        const userInput = document.getElementById("user-input");
+        const sendBtn = document.getElementById("send-btn");
+
+        sendBtn.addEventListener("click", () => {
+            const message = userInput.value.trim();
+            if (!message) return;
+
+            addMessage("You", message, "user");
+            userInput.value = "";
+
+            fetch("/chat", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    message: message,
+                    language: "en"
+                })
+            })
+            .then(res => res.json())
+            .then(data => {
+                addMessage("FoodChow Assistant", data.response, "bot");
+            })
+            .catch(err => {
+                addMessage("Error", "Something went wrong.", "bot");
+            });
+        });
+
+        function addMessage(sender, text, type) {
+            const div = document.createElement("div");
+            div.classList.add("message", type);
+            div.innerHTML = `<strong>${sender}:</strong> ${text}`;
+            chatBox.appendChild(div);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+    </script>
+</body>
+</html>

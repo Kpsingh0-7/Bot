@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FoodChow AI Assistant</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="static\style.css">
+</head>
+
+<body>
+    <!-- Main Content -->
+    <main>
+        <!-- Top Navigation -->
+        <header class="top-nav">
+            <button class="ray-btn" style="background: none; border: none; padding: 0; cursor: pointer;margin-right:30px;margin-bottom:20px;">
+                <img src="static/image.png" alt="FOODCHOW AI" style="height: 150px; width: auto;">
+            </button>
+        </header>
+
+    <!-- Chatbot Window (Initially Hidden) -->
+    <div class="chatbot-container" id="chatbot">
+        <div class="chat-header">
+            <!--<img src="static/Group.png" alt="Bot Icon" class="message-icon">-->
+            <span class="chat-title">Foodchow AI Assistant</span>     
+            <select id="language-select" class="language-dropdown">
+                <option value="en">English</option>
+                <option value="hi">Hindi</option>
+                <option value="gu">Gujarati</option>
+            </select>
+            <button class="close-btn" onclick="toggleChat()">✖</button>
+        </div>
+        <div class="chat-body" id="chat-body">
+
+            <div class="message-container bot-message-container">
+                <img src="static/robot1.png" alt="Bot Icon" class="message-icon">
+                <div class="bot-message">
+                            Welcome to foodchow!
+                        <div class="bot-options">
+                            <button class="option-btn" onclick="handleOption('grow-online')">I want to grow my restaurant online</button>
+                            <button class="option-btn" onclick="handleOption('partner')">I want to partner with FoodChow</button>
+                            <button class="option-btn" onclick="handleOption('know-more')">Other Information</button>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="chat-footer">
+            <input type="text" id="user-input" placeholder="Ask anything ...">
+            <button onclick="sendMessage()">Send <i class="fas fa-paper-plane"></i></button>
+        </div>
+        <div class="chat-poweredby">
+            <img src="static/Group.png" alt="Foodchow Logo">
+            <span>Powered by Foodchow</span>
+        </div>
+    </div>
+
+    <script src="static\script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,12 @@
+langchain
+faiss-cpu
+langchain-community
+google-generativeai
+InstructorEmbedding
+torch
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+flask
+flask-cors
+googletrans==4.0.0-rc1

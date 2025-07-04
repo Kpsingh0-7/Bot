@@ -1,0 +1,144 @@
+[
+    {
+        "title" : "How to Access the Dashboard and Applications",
+        "URL" : "https://vimeo.com/1075943268",
+        "transcript" : "First dashboard in this video. We'll start from the dashboard first. Visit www.food chow.com and tap on Add Restaurant. If you already have an account, click on log in.Enter your valid email and password to access the restaurant admin panel. Once logged in, the first page you'll see is the dashboard. Here you'll find two applications, one Food Chow, POS two Food Chow Restaurant Manager. You'll also see download buttons for both applications. Simply click to download and install them on your system, whether it's Android, windows, or iOS. Thanks for watching."
+        
+    },
+    {
+        "title" : "How to Update the Restaurant and Owner Profile",
+        "URL" : "https://vimeo.com/1075943230",
+        "transcript" : "Second my profile. In this video, we'll explore the my profile page where both the owners and restaurants information is displayed. You can easily add or update details as needed. The profile is divided into three sections. Number one, owner's information.Here you can enter or update details such as your first name, last name, email address, mobile number, and restaurant contact number. After clicking the next button, number two, restaurant type and cuisines, you'll see options to select your restaurant type, available cuisines, and the currency used in your restaurant. Number three, restaurant details. In the final section, you'll find additional restaurant information, including the restaurant name, complete address area, city, country, website, promo code, and the time zone set during registration. Additionally, you can pinpoint your restaurant's exact location using the built-in map feature, making it easier for customers to find you. Thanks for watching."
+    },
+    {
+        "title" : "How to Upload Menu via Excel or Manual Entry",
+        "URL" : "https://vimeo.com/1075943208",
+        "transcript" : "Third upload menus. In this video, we'll walk through how restaurant owners can upload their menu using an Excel sheet or add items manually. There are two ways to add a menu upload via Excel sheet. Click on the with Excel button to see step-by-step instructions on importing your menu. Food Chow also provides a sample Excel sheet for reference making the process even easier. Simply select your Excel file imported, and the menu items will be automatically added and displayed in your restaurant menu, manual entry. You can also add menu items manually by creating categories, adding variants, items, and extras to customize your offerings. Thanks for watching."
+    },
+    {
+        "title" : "How to Set Menu Language and Direction",
+        "URL" : "https://vimeo.com/1075943186",
+        "transcript" : "Fourth menu language. In this video, we will explore the menu language page, which allows you to customize your menu based on your preferred language. There are two language options available, single language mode. You can select a single language for your menu and choose the text direction left to right LTR, EEG on English. Spanish right to left, RTL EEG Urdu Arabic dual language mode. This option lets you display your menu in two languages. The primary language is preselected and you can choose the secondary language as needed. Additionally, you can customize how the languages appear, show both languages side by side, display only, the primary or secondary language. Adjust the text direction, LTR or RTL. Thanks for watching. I."
+    },
+    {
+        "title" : "How to Add and Manage Categories",
+        "URL" : "https://vimeo.com/1075943159",
+        "transcript" : "Fifth categories. In this video, we will walk through the process of manually adding categories to your menu. Let's get started. When you open the category page, you will see a list of existing categories along with an option to add new category. Clicking on add new category, we'll open a new page where you can enter the category name, set the category status, active inactive, upload a category image. Once added, you will be redirected back to the category page where you can view your newly created category. From here, you can edit, update, or delete any category as needed. Additionally, food Chow offers a bulk delete option, allowing you to remove multiple categories at once for easier management. Thanks for watching."
+    },
+    {
+        "title" : "How to Add Menu Variants",
+        "URL" : "https://vimeo.com/1075943743",
+        "transcript" : "Sixth variance. In this video, we will walk through the process of adding variants for menu items. On the variant page, you will see a list of existing variants along with an add new variant button. Click on it to open the variant creation interface. Here you can add a new variant name. Click the add more button to include multiple variants at once. Once you have added all the necessary variants, click the add button to save them. You will then be redirected back to the variant list page where you can view all the added variants. Thanks for watching."
+    },
+    {
+        "title" : "How to Add Custom Choices for Menu Items",
+        "URL" : "https://vimeo.com/1075943699",
+        "transcript" : "Seventh choices. In this video, we will explore how to add choices for menu items, allowing customers to customize their orders based on their preferences. When you navigate to the Choices tab, you will see a list of existing choices, along with options to edit, add, or delete them. To add new choices, click the add choice button. Enter multiple options under a single choice category. Save your choices, and they will be added to the list instantly. This feature makes it easy to offer customizable options to your customers. Thanks for watching."
+    },
+    {
+        "title" : "How to Add Extras Categories and Items",
+        "URL" : "https://vimeo.com/1075943647",
+        "transcript" : "Eight extras, A extras category B extras name. In this video we will cover two modules of extras, extras, category and extras. Name first extras category. If extras categories already exist, you will see a list displayed. To add a new category, click on add new extras category, which will redirect you to the category creation page. Here you can enter the category name and save it. Second extras name. This section displays a list of extras along with their prices and sizes. To add a new extra click on add extras name, Once you have filled in the details, click the add button to save it, and the extra will be added to your menu."
+    },
+    {
+        "title" : "How to Upload a Restaurant Logo",
+        "URL" : "https://vimeo.com/1075943601",
+        "transcript" : "Second, how to add your restaurant logo. Adding your logo is simple. This logo will be displayed on your dedicated subdomain website. Follow these steps to upload it one, click on add New restaurant logo two. Upload your logo image recommended size 400 by 250 pixels. Maximum file size three megabytes. The image will be automatically cropped to fit. Three. Enter your restaurant's name in the website name field. This helps with SEO improving your subdomains ranking on Google. Click save to apply the changes. That's it. Your logo will now be displayed on your website."
+    },
+    {
+        "title" : "How to Upload a Restaurant Image",
+        "URL" : "https://vimeo.com/1075943559",
+        "transcript" : "Third, how to add your restaurant image. Now let's upload your restaurant image to be displayed on the Food Chow customer app, Android and iPhone. Follow these steps. Click on Add restaurant image. Upload your image. Recommended size 600 by 400 pixels. For the best view supported formats, dot gif png jpeg jpg. Maximum file size one megabyte. Click save to apply the changes. Your restaurant image is now ready to be displayed on the Food Chow app. Thanks for watching."
+    },
+    {
+        "title" : "How to Set Restaurant Operating Hours",
+        "URL" : "https://vimeo.com/1075943517",
+        "transcript" : "Fourth, how to set up your restaurant timing. Now let's set up your restaurant's operating hours. Follow these steps, select your restaurant's timing. You can set up to three different time slots per day, breakfast, lunch, and dinner. For 24 hour operation, select the 24 hours option. Set the timing for each day of the week. If your restaurant is closed on a particular day, select the close option. Click update to save your changes. That's it. Your restaurant timing is now set. Thanks for watching."
+    },
+    {
+        "title" : "How to Configure Delivery Zones and Areas",
+        "URL" : "https://vimeo.com/1075943475",
+        "transcript" : "Fifth, how to set up your restaurant delivery zone and area. Now let's configure your restaurant's delivery zones and areas. Follow these steps. Select the area wise delivery option. Add a new delivery area. Enter the area name. Set the minimum order amount required for delivery. Define the minimum order amount for free delivery. Must be greater than the minimum order amount. Specify the delivery fee if applicable. Set the estimated delivery time customizable. Click save to apply the changes. You can edit, delete, enable or disable any delivery area as needed. How to set up your restaurant in zone wise delivery. Now let's configure your restaurant's delivery zones using shape or circle radius options. Follow these steps. One. Choose a delivery zone type zone by shape. Draw a custom shape on the map to define your delivery area. Zone by radius. Select a central point and set a delivery radius to cover the surrounding area. Two for add, zone and shape. Manually outline your delivery area by drawing a shape on the map. Three. For add zone encircle, select a location on the map. Set a radius to define your delivery coverage. Click save to apply the settings. Once saved, you can edit or delete your delivery zones as needed."
+    },
+    {
+        "title" : "How to Add Tables and Manage QR Codes",
+        "URL" : "https://vimeo.com/1075943450",
+        "transcript" : "Six. How to add a table and manage QR codes? Adding a table first, click on add new table. Second, enter the table details. Table number, number of persons three. Click add to add the table or cancel to discard changes. You can also use the plus icon. To quickly add a table, simply enter the table number and number of persons. Then click Add QR code options. Once a table is added, you can generate and manage a QR code for it. Download QR code. Click download QR code to save the QR code as a file. Email QR code. The QR code will be sent to the restaurant's registered email id. Print QR code. Click print QR code to get a physical copy for table display. Download all QR codes as PDF flyer. Click download all QR code flyer to get a flyer with all table QR codes in PDF format managing tables. Edit table. Modify the table number, or the number of persons. Delete table. Remove the table from the system. Thanks for watching."
+    },
+    {
+        "title" : "How to Manage Restaurant Gallery Photos",
+        "URL" : "https://vimeo.com/1075943416",
+        "transcript" : "Seventh script for setting your restaurant gallery photos. One, add a new image. Click on the add new image button. Two upload image. Click to upload. To open the file selection window, choose the desired restaurant gallery photo from your device. Ensure the image size is 600 by 400 pixels. For the best viewing experience, you should upload at least 12 images to complete the Gallery three crop and upload image. After selecting the image, click on crop and upload image. To finalize the upload four, close the upload section. Use the close button to exit this section if needed. Five. Delete images. Click on the dustbin icon to delete All images updates in the ambience gallery will be automatically reflected on the restaurant's webpage. Thanks for watching."
+    },
+    {
+        "title" : "How to Upload Restaurant Ambiance Images",
+        "URL" : "https://vimeo.com/1075943384",
+        "transcript" : "Eighth, your restaurant Ambiance Images. One, add a new image. Click on the add New image button. Two upload image. Click to upload To open the file selection window. Choose the desired restaurant ambiance image from your device. Ensure the image size is 600 by 400 pixels. For the best viewing experience, you should upload at least 12 images to complete the Gallery three Crop and Upload image. After selecting the image, click on Crop and upload image. To finalize the upload four, close the upload section. Use the close button to exit the section if needed. Five. Delete images. Click on the dustbin icon to delete All images updates in the ambience gallery will be automatically reflected on the restaurant's webpage."
+    },
+    {
+        "title" : "How to Upload Menu Images",
+        "URL" : "https://vimeo.com/1075943343",
+        "transcript" : "Ninth menu image upload one. Click on add new image. To start adding a new photo, two click on click to upload. This will open the file selection window. Three. Choose an image from your device. Make sure it belongs to your restaurant menu image. Image size requirement. For the best view, the image should be 600 by 400 pixels five. Click on crop and upload image to finalize the upload. Six. To close this section, use the close button. Seven, deleting images. Click on the trash to remove an image. Alternatively, click on cancel To discard an image. Eight, you must upload at least 12 images to complete your gallery. Nine updates in the restaurant menu will be automatically reflected on the restaurant's webpage. Thanks for watching."
+    },
+    {
+        "title" : "How to Set Up Restaurant Facilities",
+        "URL" : "https://vimeo.com/1075943306",
+        "transcript" : "10th, set up your restaurant facilities. One. Select your facilities. Use the check boxes to choose the facilities available in your restaurant. We provide a list of basic facilities for you to select from. Two, request a new facility. If you need an additional facility that is not listed, click on the request. New facility button. Enter the name of the facility you want to add. For example, swimming pool. Click on the send button to submit your request. Three approval. In addition, your request will be sent to higher authorities for review. Once approved, you can add the requested facility to your restaurant. The new facility will then be displayed on your restaurant webpage."
+    },
+    {
+        "title" : "How to Add Promo Codes or Coupons",
+        "URL" : "https://vimeo.com/1075945362",
+        "transcript" : "11th, adding a new promo code or coupon. One. Click on add new coupon. Two. Fill in the required details. Coupon type. Choose if the discount is a fixed amount rupe, or a percentage percent description. Add a short note about the coupon. Eeg. 10% off on all orders apply on select. Who can use this coupon only? Once per client only. Returning client only. New client. Any client new returning coupon code. Enter a unique code. Example, save 0 0 2. Discount in. Choose between rupees fixed discount or percentage percent off minimum order amount. Set the minimum amount required to use the coupon discount value. Enter the discount amount. Auto apply a checkout."
+    },
+    {
+        "title" : "How to Set Up the Ordering Widget",
+        "URL" : "https://vimeo.com/1075945308",
+        "transcript" : "12th setting ordering, widget setting. Create an HTML file with any name. For example, online order dot html in your server. Copy the code below and paste it into your HTML file. Or simply email the code to your developer three. Visit www your website.com/order online dot html. Your ordering engine is ready. Click the copy code button to copy the code to your clipboard. Click the email code button to send the code via email to your developer."
+    },
+    {
+        "title" : "How to Customize Ordering Widget Settings",
+        "URL" : "https://vimeo.com/1075945245",
+        "transcript" : "13th, setting up widget settings. Customer mobile number field to enable the customer mobile number field On the ordering page, please contact Food Chow support for activation OTP verification for customers. If you want to enable OTP verification for customers during ordering, please reach out to Food Chow Support for activation customer email ID field. You can check or uncheck this option in the widget settings to show or hide the email ID field on the ordering page. Customizing widget colors. Personalize your ordering widget by selecting a custom color. Click select color to open the color picker. Your selected color will be instantly applied to the online order page. Thanks for watching."
+    },
+    {
+        "title" : "How to Integrate Razorpay Payment Gateway",
+        "URL" : "https://vimeo.com/1075945185",
+        "transcript" : "15. How to connect razor Pay payment Gateway with food shall follow these steps. To integrate razor pay with food shall step one, navigate to Payment gateway. On the left sidebar, click on payment gateway. Step two, register or log into razor pay. If you already have a Razor pay account, click on log in and enter your credentials. Step three, connect Food Chow with Razor pay. Click on Connect with Razor Pay in Food Chow. This will open the Razor Pay authorization page. Step four, authorize the connection. Click on the authorized button to grant permission. Step five, confirmation. After successful authorization, you will be redirected back to the Food Chow Admin panel. A confirmation message will appear stating Your Razor pay"
+    },
+    {
+        "title" : "How to Integrate Porter Delivery API",
+        "URL" : "https://vimeo.com/1075945118",
+        "transcript" : "14th, get start To set your delivery integration, one click on delivery integration. Step two, select Porter as delivery partner. Locate the delivery integration dropdown. Select Porter from the list. Step three, register on Porter's official website. Click on the Porter website link provided. Sign up for a Porter business account. Complete the registration process after registration. Log into your Porter account. Step four, get Porter API Key in the Porter dashboard. Go to the API section, copy your production. API key step five, integrate API Key and Food Chow. Return to the food chow admin panel. Paste the API key into the provided text box. Click on validate porter integration if the API key is valid."
+    },
+    {
+        "title" : "How to Set Up a Custom Domain for Your Restaurant",
+        "URL" : "https://vimeo.com/1075945004",
+        "transcript" : "16th, setting up a custom domain for Food Chow. Follow these steps to link your custom domain with Food Chow. Step one, purchase a domain. Buy a domain from any domain provider. Some popular providers include GoDaddy hosting or Big Rock. Step two, access the custom domain settings in Food Chow from the dashboard. Click on the menu tab on the left side. Navigate to the add custom domain page. Step three, add your custom domain in Food Chow in the Add your custom domain text box. Enter your domain name. Click on the add domain button to save your custom domain. Step four, configure DNS settings. After adding the domain, follow the on-screen instructions to update your DNS records. We provide detailed DNS setup steps for different domain providers. Step five, wait for DNS propagation, DNS changes. Take time to update across the internet. This process may take anywhere from a few minutes to 24 hours. Step six, access your online ordering widget. Once the DNS records have propagated successfully, you can now access Food Chow's online ordering system on your custom domain. Your Food Chow online ordering widget is now successfully linked to your custom domain. Thanks for watching."
+    },
+    {
+        "title" : "How to Add and Apply Taxes",
+        "URL" : "https://vimeo.com/1075945615",
+        "transcript" : "Second tax. First, let's add a new tax to the system. Click on add new tax in the tax settings. Enter a tax name such as G-S-T-V-A-T or Service Tax. Then enter the tax rate based on how much tax you wanna apply. Now decide how the tax should be applied to item prices. You have two options, include tax and price. The tax is already included in the items. Selling price, exclude tax from price. The tax is added separately at checkout. Select the preferred tax type and click add. Your tax is now added and ready to be applied to items. Now let's assign the added tax to specific menu items.Go to apply tax. Here you will see a list of all menu items each with a checkbox next to it."
+    },
+    {
+        "title" : "How to Set Up Additional Menus with Time Slots",
+        "URL" : "https://vimeo.com/1075945567",
+        "transcript" : "Fourth additional menu. Welcome back. In this tutorial, we will walk you through setting up additional menus in the Food Chow admin panel. This feature helps you organize your menu based on meal types, such as breakfast, lunch, or dinner, and allows you to set custom availability times. Let's get started. First, go to setup and select additional menu from the Food Chow admin panel. Here you'll see a list of all existing menus along with options to edit, delete, or add a new menu. To create a new menu, click on add menu. Enter the menu name. This is a required field. Then set the menu availability time, such as lunch hours from 12:00 PM to 3:00 PM or dinner from 7:00 PM to 11:00 PM. If you want the menu to be available all day, select 24 hours. You can also use Apply to All to set the same schedule for every day, or select close to disable it on specific days. Click next to Move to Item Selection. Here, choose the items you want to include in this menu. You can also customize prices and set item variance if needed. Once you finalize your selections, click save to complete the menu setup. To display the menu in the system, select it as the active menu in the menu section. Then to ensure that the changes reflect in online orders, go to Sync menu, select the updated menu, and confirm the sink. That's it. You have successfully created and customized an additional menu in the Food Chow admin panel. Now, your restaurant can offer meal specific menus with controlled availability, making it easier to manage and enhance the customer experience. Thanks for watching and happy managing with Food Chow."
+    },
+    {
+        "title" : "How to Configure Order Settings",
+        "URL" : "https://vimeo.com/1075945489",
+        "transcript" : "Fifth order setting. Welcome back. In this guide, we will walk you through the ordering settings in Food Chow and how to customize them for a smooth ordering experience. You have the option to enable or disable ordering based on your restaurant's needs. Choose the payment methods you want to display to customers in the ordering engine. If you want to allow customers to place orders in advance, simply enable the pre-order option for order approval. You have two choices, check mark, auto approval manual approval. The custom label field lets you personalize the order label, which customers will see in the ordering engine. The order time setting helps customers know how long it will take to prepare their order. In the notes section, you can add custom messages like have a Happy Meal, which will be displayed to customers while ordering. For certain order types, extra charges may apply. For example, if a customer selects takeaway, a predefined charge will be automatically added to their order. Next, we have email notifications. Enable the first option to send an email notification to the restaurant when an order is placed. Enable the second option to send an order confirmation email to the customer. These settings are the same for all order types, but for dine-in orders, there's an extra setting for QR code ordering. This allows customers to scan a QR code and place their order directly from their table. Another important setting is customer details. If the checkbox is marked, customers must enter their details before placing an order, ensuring complete information for smoother processing. And that's it. You now know how to configure your ordering settings in Food Chow for a seamless customer experience. Thanks for watching and happy managing with Food Chow."
+    },
+    {
+        "title" : "How to Use the Category Mapper",
+        "URL" : "https://vimeo.com/1075945448",
+        "transcript" : "Sixth category mapper. Welcome back. In this guide we will learn how to use the category mapper to organize your menu efficiently. The category mapper helps you map categories into different sections. For example, under starters, you can group items like snacks and fast food. Under main course, you can include categories like burgers and sandwiches. With this tool, you can easily structure your menu by adding sections and assigning categories to them. Simply drag and drop a category into the desired section. You can also edit section names, rearrange categories, or remove any category as needed. This makes it easier to manage your menu layout and improve customer navigation. And that's it. Now you know how to use the category mapper to streamline your menu organization. Thanks for watching and happy managing with Food Chow."
+       
+    },
+    {
+        "title" : "How to Assign Item Codes in POS",
+        "URL" : "https://vimeo.com/1075945406",
+        "transcript" : "First item code. Welcome to Food Chow. In this video, we will learn how to set up an item code to simplify item searches, especially for long item names. POS supports two types of item codes. Numeric code eeg 1, 2, 3, 4, 5 contains only numbers. Alpha numeric code EEG pizza, 1, 2, 3, a mix of letters and numbers for better categorization. When you add an item, the system automatically generates an item code, but you can edit it anytime. Simply go to item code, select the item, update the code, and click save. Now, searching for items is much faster. That's it. Your item code is set up and ready to use."
+    }
+]
