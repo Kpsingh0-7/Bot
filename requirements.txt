@@ -6,7 +6,7 @@ langchain-huggingface==0.2.0
 faiss-cpu==1.7.4
 google-generativeai==0.3.2
 InstructorEmbedding==1.0.1
-torch==2.1.2
+torch
 sentence-transformers==2.6.1
 flask==2.3.3
 flask-cors==4.0.0
