@@ -1,5 +1,4 @@
 faiss-cpu
-google-generative
 InstructorEmbedding
 torch
 langchain-huggingface
