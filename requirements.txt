@@ -1,12 +1,12 @@
-langchain
 faiss-cpu
-langchain-community
-google-generativeai
+google-generative
 InstructorEmbedding
 torch
-langchain-google-genai
 langchain-huggingface
 sentence-transformers
 flask
 flask-cors
 googletrans==4.0.0-rc1
+langchain==0.3.25
+langchain-community==0.3.25
+langchain-google-genai==2.1.5
