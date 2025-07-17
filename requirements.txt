@@ -5,7 +5,7 @@ langchain-huggingface
 sentence-transformers
 flask
 flask-cors
-googletrans==3.1.0a0
+googletrans
 langchain==0.3.25
 langchain-community==0.3.25
 langchain-google-genai==2.1.5
