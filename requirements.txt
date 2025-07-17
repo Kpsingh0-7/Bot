@@ -1,6 +1,6 @@
 faiss-cpu
 InstructorEmbedding
-torch==2.0.1+cpu
+torch
 langchain-huggingface
 sentence-transformers
 flask
