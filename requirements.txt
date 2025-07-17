@@ -1,11 +1,11 @@
 faiss-cpu
 InstructorEmbedding
-torch
+torch==2.0.1+cpu
 langchain-huggingface
 sentence-transformers
 flask
 flask-cors
-googletrans==4.0.0-rc1
+googletrans==3.1.0a0
 langchain==0.3.25
 langchain-community==0.3.25
 langchain-google-genai==2.1.5
