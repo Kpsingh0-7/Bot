@@ -349,7 +349,8 @@ def save_chat_to_file(user_question, bot_answer, lang="en", file_path="chat_hist
 
 if __name__ == "__main__":
 
-    app.run(host="195.201.175.72", port=5002, debug=True)  # airtal
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=True)
     # app.run(host="192.168.1.7", port=5000, debug=True) #shri_5G
     # app.run(host="192.168.84.195", port=5000, debug=True) #dixita
     # app.run(host="172.16.3.193", port=5000, debug=True) #ppsu_student
